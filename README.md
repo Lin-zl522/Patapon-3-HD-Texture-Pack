@@ -7,11 +7,15 @@ Including 95% textures in game (manually remastered + ai-upscaled), please repor
 
 Before installing, please set 
 
-GRAPHICS > RENDERING RESOLUTION > [AUTO(1:1)]
+`GRAPHICS > RENDERING RESOLUTION > [AUTO(1:1)]`
 
 and
 
-TEXTURE SCALING > UPSCALE LEVEL > [OFF]
+`TEXTURE SCALING > UPSCALE LEVEL > [OFF]`
+
+and
+
+`TEXTURE FILTERING > ANISOTROPIC FILTERING > [OFF]`
 
 To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
 `PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
