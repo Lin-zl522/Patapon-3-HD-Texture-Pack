@@ -3,6 +3,8 @@ HD Textures for Patapon 3
 
 sub-project base on: https://github.com/WallSoGB/Patapon3Textures
 
+Including 98% textures in game(manually remastered + ai-upscaled), please report if you found anyone is missing.
+
 To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
 `PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
 
