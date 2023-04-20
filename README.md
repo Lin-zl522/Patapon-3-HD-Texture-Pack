@@ -11,11 +11,11 @@ Before installing, please set
 
 and
 
-`TEXTURE SCALING > UPSCALE LEVEL > [OFF]`
+`GRAPHICS > TEXTURE SCALING > UPSCALE LEVEL > [OFF]`
 
 and
 
-`TEXTURE FILTERING > ANISOTROPIC FILTERING > [OFF]`
+`GRAPHICS > TEXTURE FILTERING > ANISOTROPIC FILTERING > [OFF]`
 
 To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
 `PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
