@@ -6,8 +6,11 @@ sub-project base on: https://github.com/WallSoGB/Patapon3Textures
 Including 95% textures in game (manually remastered + ai-upscaled), please report if you find anything was missed.
 
 Before installing, please set 
+
 GRAPHICS > RENDERING RESOLUTION > [AUTO(1:1)]
+
 and
+
 TEXTURE SCALING > UPSCALE LEVEL > [OFF]
 
 To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
