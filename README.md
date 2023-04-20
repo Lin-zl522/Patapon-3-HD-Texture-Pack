@@ -13,7 +13,7 @@ To install, enable Texture Replacement in PPSSPP dev menu and put downloaded fil
 |      JP | `NPJG00122` |
 |      CN | `UCAS40318` |
 
-#Texture remastered by:
+# Texture remastered by:
 
 WallSoGB
 
