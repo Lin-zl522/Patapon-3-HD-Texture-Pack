@@ -38,6 +38,10 @@ Shockturtle
 
 Keamble
 
+Hozzzd
+
+KnotSora
+
 Lin
 
 MitsukiHarune
