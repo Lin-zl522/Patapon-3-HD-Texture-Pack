@@ -1,11 +1,23 @@
-# Patapon-3-HD-Texture-Pack (in progress)
-HD Textures for Patapon 3 PPSSPP
+<h1 align="center">Patapon-3-HD-Texture-Pack</h1>
+<h3 align="center">[In Progress]</h5>
 
-sub-project base on: https://github.com/WallSoGB/Patapon3Textures
+Sub-project base on: [Patapon3Textures](https://github.com/WallSoGB/Patapon3Textures) Leaded by [WallSoGB](https://github.com/WallSoGB)
 
-Including 99% textures in the game (over 50% manually remastered + ai-upscaled), please report if you find anything was missed.
+Including 99% textures in the game (over 70% manually remastered + ai-upscaled), please report if you find anything was missed.
 
-# Installing:
+
+Manually Remastered:
+- All Gaming UI
+- All Unit Sprites
+- All Hero Masks
+- All Rera Pon Helms
+- All Equipments
+- All Items
+- 70% Monsters
+- 50% Effects
+- 50% Map Structures
+
+## Usage:
 
 Before installing, please set:
 
@@ -29,9 +41,10 @@ And, put unziped downloaded files to:
 |      NA | `UCUS98751` |
 |      JP | `NPJG00122` |
 |      CN | `UCAS40318` |
+|Overhaul | `UCES01422` |
 | DxD mod | `INFN00001` |
 
-# Adding Customized Textures:
+## Adding Customized Textures:
 
 Find the texture you want to replace in sorted texture folders
 
@@ -40,27 +53,27 @@ Copy the hashcode (its filename) of the original texture
 Rename your customized textures as the hashcode, then paste your texture to:
 `%GAME_ID%/_custom_textures`
 
-Then, back to your  `%GAME_ID%` folder and double click script `textures.ini generator.py` to refresh your .ini file
+Then, back to your  `%GAME_ID%` folder and double click script `textures.ini generator.py` to refresh your `texture.ini` file
 
-# Texture Remastered by:
+## Texture Remastered by:
 
-WallSoGB
+[WallSoGB](https://github.com/WallSoGB) (Leader of the Patapon3Textures project)
 
-Owocek
+[Shockturtle](https://github.com/shockturtle) (Leader of the Patapon2HD project)
 
-Shockturtle
+[owocek](https://github.com/owocekTV)
 
-Keamble
+[efonte](https://github.com/efonte) (AI Upscaling)
 
-Hozzzd
+[Keamble](https://github.com/Kaemble) (HD Equipments, HD Masks, HD UI, HD Sprites, HD Maps, HD effects)
 
-KnotSora
+[Hozzzd](https://github.com/Hozzzd) (Tech Support)
 
-Lin
+[KnotSora](https://github.com/KnotSora) (HD monsters, HD effects)
+
+[Lin](https://github.com/Lin-zl522) (HD Equipments, HD UI, HD Sprites, HD Maps)
 
 MitsukiHarune
-
-mamba
 
 Fabierex
 
@@ -71,3 +84,5 @@ Subnormal Halfspy
 bl4zerp
 
 thiago34x
+
+mamba
