@@ -10,7 +10,7 @@ Manually Remastered:
 - All Gaming UI
 - All Unit Sprites
 - All Hero Masks
-- All Rera Pon Helms
+- All Rare Pon Helms
 - All Equipments
 - All Items
 - 70% Monsters
