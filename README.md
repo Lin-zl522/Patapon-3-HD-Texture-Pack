@@ -44,7 +44,7 @@ And, put unziped downloaded files to:
 |Overhaul | `UCES01422` |
 | DxD mod | `INFN00001` |
 
-## Adding Customized Textures:
+## Adding Customized Textures (Python Required):
 
 Find the texture you want to replace in sorted texture folders
 
