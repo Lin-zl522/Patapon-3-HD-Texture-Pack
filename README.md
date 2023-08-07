@@ -11,11 +11,11 @@ Manually Remastered:
 - All Unit Sprites
 - All Hero Masks
 - All Rare Pon Helms
-- All Equipments
+- All Equipment
 - All Items
-- 70% Monsters
-- 50% Effects
-- 50% Map Structures
+- ALL Monsters(?)
+- 60% Effects
+- 60% Map Structures
 
 ## Usage:
 
