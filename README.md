@@ -1,5 +1,5 @@
 <h1 align="center">Patapon-3-HD-Texture-Pack</h1>
-<h3 align="center">[Almost Complete]</h5>
+<h3 align="center">[Almost Complete?]</h5>
 
 Sub-project base on: [Patapon3Textures](https://github.com/WallSoGB/Patapon3Textures) Leaded by [WallSoGB](https://github.com/WallSoGB)
 
@@ -72,6 +72,8 @@ Then, back to your  `%GAME_ID%` folder and double click script `textures.ini gen
 [KnotSora](https://github.com/KnotSora) (HD monsters, HD effects)
 
 [Lin](https://github.com/Lin-zl522) (HD Equipments, HD UI, HD Sprites, HD Maps)
+
+Olimp666 (Russian Localization)
 
 MitsukiHarune
 
