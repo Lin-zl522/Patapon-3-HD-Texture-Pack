@@ -1,5 +1,5 @@
 <h1 align="center">Patapon-3-HD-Texture-Pack</h1>
-<h3 align="center">[In Progress]</h5>
+<h3 align="center">[Almost Complete]</h5>
 
 Sub-project base on: [Patapon3Textures](https://github.com/WallSoGB/Patapon3Textures) Leaded by [WallSoGB](https://github.com/WallSoGB)
 
@@ -11,11 +11,11 @@ Manually Remastered:
 - All Unit Sprites
 - All Hero Masks
 - All Rare Pon Helms
-- All Equipments
+- All Equipment
 - All Items
-- 70% Monsters
-- 50% Effects
-- 50% Map Structures
+- ALL Monsters(?)
+- 60% Effects
+- 60% Map Structures
 
 ## Usage:
 
