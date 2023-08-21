@@ -75,13 +75,13 @@ Then, back to your  `%GAME_ID%` folder and double click script `textures.ini gen
 
 Olimp666 (Russian Localization)
 
-MitsukiHarune
+Rin Casi
 
 Fabierex
 
 Heavenartist2006
 
-Subnormal Halfspy
+Zica Supercharger
 
 bl4zerp
 
