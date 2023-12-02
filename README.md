@@ -55,7 +55,7 @@ Rename your customized textures as the hashcode, then paste your texture to:
 
 Then, back to your  `%GAME_ID%` folder and double click script `textures.ini generator.py` to refresh your `texture.ini` file
 
-## Texture Remastered by:
+## Textures Remastered by:
 
 [WallSoGB](https://github.com/WallSoGB) (Leader of the Patapon3Textures project)
 
@@ -74,6 +74,8 @@ Then, back to your  `%GAME_ID%` folder and double click script `textures.ini gen
 [Lin](https://github.com/Lin-zl522) (HD Equipments, HD UI, HD Sprites, HD Maps)
 
 Olimp666 (Russian Localization)
+
+wondaoxigen (HD Masks, HD Hero Sprites)
 
 Rin Casi
 
